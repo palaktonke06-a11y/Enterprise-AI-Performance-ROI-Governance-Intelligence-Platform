@@ -1,6 +1,6 @@
 # 🚀 Enterprise AI Performance, ROI & Governance Intelligence Platform
 
-![Project Dashboard](home page.png)
+![Project Dashboard](home%20page.png)
 
 ### 🔗 Live Demo
 [👉 View Live Demo](YOUR_LIVE_DEMO_LINK)
