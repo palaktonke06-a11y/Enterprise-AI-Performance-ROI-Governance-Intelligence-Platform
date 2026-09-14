@@ -1,6 +1,6 @@
 # 🚀 Enterprise AI Performance, ROI & Governance Intelligence Platform
 
-![Project Dashboard](dashboard.png)
+![Project Dashboard](homepage.png)
 
 ### 🔗 Live Demo
 [👉 View Live Demo](YOUR_LIVE_DEMO_LINK)
@@ -59,7 +59,7 @@ Interactive Dashboard
 **Languages:** Python, SQL
 
 **Libraries & Tools:**  
-Pandas  • NumPy  • Scikit-learn  • Matplotlib  • Seaborn  • Joblib  • SQLite  • Streamlit  • Git  • GitHub
+Pandas   • NumPy   • Scikit-learn   • Matplotlib   • Seaborn   • Joblib   • SQLite   • Streamlit   • Git    • GitHub
 
 ---
 
