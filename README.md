@@ -59,7 +59,7 @@ Interactive Dashboard
 **Languages:** Python, SQL
 
 **Libraries & Tools:**  
-Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Joblib • SQLite • Streamlit • Git • GitHub
+Pandas  • NumPy  • Scikit-learn  • Matplotlib  • Seaborn  • Joblib  • SQLite  • Streamlit  • Git  • GitHub
 
 ---
 
@@ -85,6 +85,6 @@ To help organizations make better **AI investment, performance, and governance d
 
 ---
 
-###👨‍💻 Built With
+### 👨‍💻 Built With
 
 Python | SQL | Machine Learning | Data Analytics | Streamlit
