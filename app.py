@@ -13,20 +13,34 @@ st.set_page_config(
 )
 
 # ============================================================
-# PATH
+# DATA FILE PATH
 # ============================================================
 
-BASE_DIR = os.path.dirname(
-    os.path.dirname(
-        os.path.abspath(__file__)
-    )
+CURRENT_DIR = os.path.dirname(
+    os.path.abspath(__file__)
 )
 
+# GitHub deployment:
+# enterprise_ai_final.csv is in the same folder as app.py
+
 DATA_FILE = os.path.join(
-    BASE_DIR,
-    "outputs",
+    CURRENT_DIR,
     "enterprise_ai_final.csv"
 )
+
+# Local project fallback:
+# outputs/enterprise_ai_final.csv
+
+if not os.path.exists(DATA_FILE):
+
+    LOCAL_OUTPUT_FILE = os.path.join(
+        CURRENT_DIR,
+        "outputs",
+        "enterprise_ai_final.csv"
+    )
+
+    if os.path.exists(LOCAL_OUTPUT_FILE):
+        DATA_FILE = LOCAL_OUTPUT_FILE
 
 # ============================================================
 # LOAD DATA
