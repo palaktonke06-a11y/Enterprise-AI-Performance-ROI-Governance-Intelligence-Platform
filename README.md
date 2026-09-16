@@ -6,7 +6,7 @@
 [👉 View Live Demo] (https://enterprise-ai-performance-roi-governance-intelligence-platform.streamlit.app/)
 
 ### 🔗 GitHub Repository
-[ https://github.com/palaktonke06-a11y/Enterprise-AI-Performance-ROI-Governance-Intelligence-Platform/ ]
+[ https://github.com/palaktonke06-a11y/Enterprise-AI-Performance-ROI-Governance-Intelligence-Platform ]
 ---
 
 ## 📌 Problem Statement
